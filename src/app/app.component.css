@@ -1,0 +1,17 @@
+/* demo.component.css */
+
+.center-of-page {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.number-section {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.sqrt-section {
+  font-size: 20px;
+  color: blue;
+}
